@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Software Engineer • University Professor • Researcher</strong>
+  <strong>Computer Engineer • University Professor • Researcher</strong>
 </p>
 
 I am a computer engineer focused on **software architecture, distributed systems, and modern web applications**.  
